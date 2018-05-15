@@ -1,0 +1,8 @@
+# -*- coding: utf-8 -*-
+
+*~
+*#
+**/.env
+**/__pycache__/
+/.tox/
+/output/
